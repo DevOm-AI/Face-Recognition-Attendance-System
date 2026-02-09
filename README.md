@@ -1,4 +1,4 @@
-#🎭 FaceTrack-Attendance
+### 🎭 FaceTrack-Attendance
 
 FaceTrack-Attendance is a smart attendance management system powered by real-time facial recognition. It eliminates the need for manual roll calls, offering a seamless, secure, and efficient way to track attendance.
 
